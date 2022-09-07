@@ -1,0 +1,6 @@
+file	==> /config
+tramaconfi==>	tipoSuelo, TipoSensor, brillo, Sleep ==> (0,0,30,0)		
+tipoSuelo==>	0,1,2,..
+TipoSensor==>	0,1,2
+brillo	==>0-100
+sleep	==> 0=5min,1=10min,2=20min
